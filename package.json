@@ -25,6 +25,6 @@
     "got": "^8.3.0",
     "p-queue": "^2.4.2",
     "sanitize-filename": "^1.6.3",
-    E:\dev\web\genesis-icon-library\package.json
+    "dotenv": "^8.2.0"
   }
 }
